@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestProject2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/.vs/TestProject2/v17/.suo
