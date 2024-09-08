@@ -4,3 +4,15 @@
 
 /TestProject2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 /.vs/TestProject2/v17/.suo
+/TestProject2/bin
+/TestProject2/obj/Debug/build.force
+/TestProject2/obj/Debug/TestProject2.dll
+/TestProject2/obj/Debug/TestProject2.pdb
+/TestProject2/obj/Debug/TestProject2.Resources.resources
+/TestProject2/obj/Debug/TestProject2.vbproj.AssemblyReference.cache
+/TestProject2/obj/Debug/TestProject2.vbproj.CopyComplete
+/TestProject2/obj/Debug/TestProject2.vbproj.CoreCompileInputs.cache
+/TestProject2/obj/Debug/TestProject2.vbproj.FileListAbsolute.txt
+/TestProject2/obj/Debug/TestProject2.vbproj.GenerateResource.cache
+/TestProject2/obj/Debug/TestProject2.xml
+*.vsidx
